@@ -1,0 +1,16 @@
+{
+  "name": "VA Developers",
+  "short_name": "VA",
+  "description": "Independent technology studio building modern mobile apps, AI-powered applications, and digital products.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090A0F",
+  "theme_color": "#090A0F",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
